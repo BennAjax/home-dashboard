@@ -1,4 +1,5 @@
 # home-dashboard
+A fictitious home dashboard built with tailwind and vueJs. This project is to showcase building complex UI's with Tailwind CSS and its for educational purposes only. A live demo could be found at https://dashboard-home-page.herokuapp.com/
 
 ## Project setup
 ```
